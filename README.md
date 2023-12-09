@@ -1,2 +1,2 @@
 # ASH2023
-This repository contains posters for the abstract accepted ar ASH2023 entitled "IFNγ Signaling in Acute Myeloid Leukemia Mediates Immunomodulation and Reveals Therapeutic Strategies".
+This repository contains 3 posters for the abstract accepted at ASH2023 from Abbas lab.
